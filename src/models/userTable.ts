@@ -58,7 +58,7 @@ export const addItem = async () => {
       Item: {
         userId: { S: "67891" },
         username: { S: "bvm" },
-        email: { S: "bri@example.com" },
+        email: { S: "isha@example.com" },
         password: { S: "securepassword" },
         phoneNumber: { S: "1234567890" },
       },
